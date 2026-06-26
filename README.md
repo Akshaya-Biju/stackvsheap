@@ -53,7 +53,7 @@ The experiment demonstrated the practical differences between stack and heap mem
 
 This repository contains the complete academic project report.
 
-**Project_Report.pdf** includes:
+**ProjectReport.pdf** includes:
 
 * Abstract
 * Problem Statement
